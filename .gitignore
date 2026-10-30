@@ -1,0 +1,8 @@
+preview.png
+calorie-preview.png
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store
+Thumbs.db
